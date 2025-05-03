@@ -1,3 +1,4 @@
+#Pilar - Encapsulamiento
 class Persona:
     def __init__(self,nombre,edad):
         self.__nombre = nombre
