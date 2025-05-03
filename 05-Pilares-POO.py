@@ -1,7 +1,6 @@
 """
 Corregir los errores
 
-
 class Dog:
     def __init__(self, name):
         name = name

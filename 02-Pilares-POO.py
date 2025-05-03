@@ -1,3 +1,4 @@
+# Pilar - Abstracción
 class Coche:
     def __init__(self, marca, modelo):
         self.marca = marca
